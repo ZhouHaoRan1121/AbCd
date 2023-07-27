@@ -73,7 +73,7 @@ pubg|78$|TOP2
 
 ## 插入代码片段
 ```C
-#inlcude <stdio.h>
+#include <stdio.h>
 int main(void)
 {
     printf("testing... \n");   
